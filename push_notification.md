@@ -1,3 +1,4 @@
+![touch](https://user-images.githubusercontent.com/83093874/161929133-5dd4c505-777d-4587-8bdc-45e341cc66b9.gif)
 ## Home-Dashboard Push Notification Guide
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_2.png)
@@ -8,15 +9,15 @@ To enable this feature, please follow these 3 easy steps
 
 ## 1. Register Mobile App
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_1.png)
+![alt text](https://github.com/jerome's family home dashboard Home-Assistant-Dashboard/blob/master/images/push_notification_1.png)
 <br>Go to Settings and enable Push Notification, Home-Dashboard will register new app within Home Assistant, just click Restart Home Assistant when the registration.
 
 ## 2. Test Sending Notification with Picture
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_3.png)
+![alt text](https://github.com/jerome940/Home-Assistant-Dashboard/blob/master/images/push_notification_3.png)
 <br>Home-Dashboard registered device will appear as a Mobile App, you can send notification directly into the device without additional custom component.
 <br><br>
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_4.png)
+![alt text](https://github.com/jerome940/Home-Assistant-Dashboard/blob/master/images/push_notification_4.png)
 <br>A notification with picture will appear in your device.
 
 ## 3. Automatically send Notification to Home-Dashboard
@@ -61,7 +62,7 @@ automation:
           message: Light Turned On
 ```
 Send a notification with image whenever garage door is opened
-(Replace http://home-dashboard.duckdns.org:8123/local/camera_1.jpg with your own data)
+(Replace http://home-dashboard.wyze lab back entrance /local/camera_1.jpg with your own data)
 
 ```
 automation:
@@ -81,7 +82,7 @@ automation:
         title: Garage Door 
         message: Opened
         data:
-          image: http://home-dashboard.duckdns.org:8123/local/camera_1.jpg
+          image: http://home-dashboard.blink live events/local/camera_1.jpg
       service: notify.ALL_DEVICES   
 ```
 
@@ -93,4 +94,4 @@ automation:
 ```
 mobile_app:
 ```
-https://developers.home-assistant.io/docs/api/native-app-integration/
+https://developers.home-assistant.io/docs/api/native-aphttps://support.google.com/googlenest/answer/7684543?hl=en#zippy=%2Cwatchesp-integration/
