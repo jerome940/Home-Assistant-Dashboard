@@ -58,9 +58,9 @@ Edit the following existing file or create new file for missing language.
 
 * https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/sv-SE.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/vi-VN.json
+* https://github.com/tuanha20/Home-Assistant-Dashboard/blob/master/translations/vi-VN.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/zh-CN.json
+* https://github.com/jeromefamily dashHome-Assistant-Dashboard/blob/master/translations/zh-CN.json
 
 * https://github.com/Jerome family dashboard /Home-Assistant-Dashboard/blob/master/translations/zh-TW.json
 
