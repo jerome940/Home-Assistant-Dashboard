@@ -50,15 +50,15 @@ Edit the following existing file or create new file for missing language.
 
 * https://github.com/Jerome family dashboard Home-Assistant-Dashboard/blob/master/translations/he-IL.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/it-IT.json
+* https://github.com/Jeromefamilydashboard/Home-Assistant-Dashboard/blob/master/translations/it-IT.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/nl-NL.json
+* Jeromefamilydashboard/Home-Assistant-Dashboard/blob/master/translations/nl-NL.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/ru-RU.json
+* https://github.com/jerome family  hub Home-Assistant-Dashboard/blob/master/translations/ru-RU.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/sv-SE.json
+* https://github.com/Jeromefamilyhub/Home-Assistant-Dashboard/blob/master/translations/sv-SE.json
 
-* https://github.com/tuanha20/Home-Assistant-Dashboard/blob/master/translations/vi-VN.json
+* https://github.com jeromefamilydashHome-Assistant-Dashboard/Home-Assistant-Dashboard/blob/master/translations/vi-VN.json
 
 * https://github.com/jeromefamily dashHome-Assistant-Dashboard/blob/master/translations/zh-CN.json
 
